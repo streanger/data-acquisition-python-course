@@ -1,6 +1,9 @@
 import requests
 import matplotlib.pyplot as plt
 
+# https://pythonguides.com/python-plot-multiple-lines/
+# https://www.tutorialspoint.com/how-to-label-a-line-in-matplotlib-python
+
 # headers = {"X-ClientId":"YOUR-API-KEY"}
 headers = {}
 plt.rcParams['figure.figsize'] = [19.2, 10.8]
